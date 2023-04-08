@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-fs.up.railway.app/)
 
 ## Frameworks
-# Frameworks Java Script         | # Frameworks Microsoft        
+ Frameworks Java Script         |  Frameworks Microsoft        
 ------------------------------  | ------------------------------
 - Node Js                       | - Asp .Net Core                
 - Angular                       | - MVC                          
