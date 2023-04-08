@@ -2,7 +2,7 @@
 
 ### My name is Facundo Sergio, I am Software Development Technician and  web full stack.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Sergio-2a9d8f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/facundo-sergio/)       [![Portfolio](https://portfolio-fs.up.railway.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Sergio-2a9d8f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/facundo-sergio/)       [![Portfolio]](https://portfolio-fs.up.railway.app/)
 
 
 
