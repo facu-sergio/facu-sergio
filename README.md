@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-sergio/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-fs.up.railway.app/)
 
-| Languages | Frameworks JavaScript  | Frameworks Microsoft | Tools | Skills |
+| **Languages** | **Frameworks JavaScript** | **Frameworks Microsoft** | **Tools** | **Skills** |
 | --- | --- | --- | --- | --- |
 | HTML | Node.js | ASP.NET Core | Git | Continuous learning |
 | CSS | Angular | MVC | Postman | Creativity |
