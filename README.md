@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**facu-sergio/facu-sergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Facundo Sergio, I am Software Development Technician and  web full stack.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Sergio-2a9d8f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/facundo-sergio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Frameworks Java Script
+- Node Js
+- Angular
+- Express Js
+- Sequelize
+
+# Frameworks Microsoft
+- Asp .Net Core
+- MVC
+- Entity Framework Core
+
+# Languages
+- HTML
+- CSS
+- Javascript
+- MySQL
+- C#
+- Sql server
+- TypeSCript 
+
+# Skills
+- Continuous learning
+- Creativity
+- Agile Methodologies - Scrum
+- Creation and consumption de APIs
+- Object Oriented programming
+
+# Tools
+- Git
+- Postman
+- Visual studio code
+- Visual studio
+- Boostrap
+- JWT
+- Boostrap
+
+
