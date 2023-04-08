@@ -13,3 +13,4 @@ MySQL | Sequelize | | Visual Studio | Creation and consumption de APIs
 C# | | | Bootstrap | Object Oriented programming
 SQL Server | | | JWT | 
 TypeScript | | | | 
+
