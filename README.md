@@ -4,12 +4,38 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-sergio/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-fs.up.railway.app/)
 
-| <span style="background-color: yellow">Texto con fondo amarillo</span> | **Frameworks JavaScript** | **Frameworks Microsoft** | **Tools** | **Skills** |
-| --- | --- | --- | --- | --- |
-| HTML | Node.js | ASP.NET Core | Git | Continuous learning |
-| CSS | Angular | MVC | Postman | Creativity |
-| JavaScript | Express.js | Entity Framework Core | Visual Studio Code | Agile Methodologies - Scrum |
-| MySQL | Sequelize |  | Visual Studio | Creation and consumption de APIs |
-| C# |  |  | Bootstrap | Object Oriented programming |
-| SQL Server |  |  | JWT |  |
-| TypeScript |  |  |  |  |
+# Languages
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- C#
+- SQL Server
+- TypeScript 
+
+# Frameworks JavaScript 
+- Node.js
+- Angular
+- Express.js
+- Sequelize
+
+# Frameworks Microsoft 
+- ASP.NET Core
+- MVC
+- Entity Framework Core
+
+# Tools 
+- Git
+- Postman
+- Visual Studio Code
+- Visual Studio
+- Bootstrap
+- JWT
+
+# Skills 
+- Continuous learning
+- Creativity
+- Agile Methodologies - Scrum
+- Creation and consumption de APIs
+- Object Oriented programming
+
