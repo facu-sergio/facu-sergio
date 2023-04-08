@@ -10,7 +10,7 @@
 | Node.js | ASP.NET Core |
 | Angular | MVC |
 | Express.js | Entity Framework Core |
-| Sequelize |  |
+| Sequelize |
 
 ## Languages
 - HTML
