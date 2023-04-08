@@ -5,13 +5,12 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-fs.up.railway.app/)
 
 ## Frameworks
- Frameworks Java Script         |  Frameworks Microsoft        
-------------------------------  | ------------------------------
-- Node Js                       | - Asp .Net Core                
-- Angular                       | - MVC                          
-- Express Js                    | - Entity Framework Core        
-- Sequelize                     |
-
+| Frameworks JavaScript  | Frameworks Microsoft |
+| --- | --- |
+| Node.js | ASP.NET Core |
+| Angular | MVC |
+| Express.js | Entity Framework Core |
+| Sequelize |  |
 
 ## Languages
 - HTML
