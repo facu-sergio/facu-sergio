@@ -7,7 +7,7 @@
 Languages | Frameworks JavaScript | Frameworks Microsoft | Tools | Skills
 --- | --- | --- | --- | ---
 HTML | Node.js | ASP.NET Core | Git | Continuous learning
-CSS | Angular | Postman | Creativity
+CSS | Angular | MVC  | Postman | Creativity
 JavaScript | Express.js | Entity Framework Core | Visual Studio Code | Agile Methodologies - Scrum
 MySQL | Sequelize | | Visual Studio | Creation and consumption de APIs
 C# | | | Bootstrap | Object Oriented programming
